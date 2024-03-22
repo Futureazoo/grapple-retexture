@@ -1,12 +1,12 @@
 {
   "parent": "minecraft:block/cube",
   "textures": {
-    "particle": "grapplemod:blocks/grapplemodifier_side",
-    "north": "grapplemod:blocks/grapplemodifier_side",
-    "south": "grapplemod:blocks/grapplemodifier_side",
-    "east": "grapplemod:blocks/grapplemodifier_side",
-    "west": "grapplemod:blocks/grapplemodifier_side",
-    "up": "grapplemod:blocks/grapplemodifier_top",
-    "down": "grapplemod:blocks/grapplemodifier_bottom"
+    "particle": "grapplemod:block/grapplemodifier_side",
+    "north": "grapplemod:block/grapplemodifier_side",
+    "south": "grapplemod:block/grapplemodifier_side",
+    "east": "grapplemod:block/grapplemodifier_side",
+    "west": "grapplemod:block/grapplemodifier_side",
+    "up": "grapplemod:block/grapplemodifier_top",
+    "down": "grapplemod:block/grapplemodifier_bottom"
   }
 }
